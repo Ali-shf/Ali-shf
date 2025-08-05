@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, javescript**
 
-- 📫 How to reach me **ali88206497@gmail.com**
+- 📫 How to reach me **ali.shahrabi.dev@gmail.com**
 
 - ⚡ Fun fact **I'm learning DS**
 
