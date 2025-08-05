@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ali.shahrabi.dev@gmail.com**
 
-- ⚡ Fun fact **I'm learning DS**
+- ⚡ Fun fact **I'm learning software enginnering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
