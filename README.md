@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Cafe_Restaurant](https://github.com/Ali-shf/Cafe_Restaurant.git)
 
-- 🌱 I’m currently learning **Software-engineering with Django**
+
 
 <h3 align="left"></h3>
 <p align="left">
